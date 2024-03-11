@@ -1,0 +1,27 @@
+_repo: Un-printemps-en-Bosnie_73097
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Kohn-Abrest, Frédéric
+    gutenberg_agent_id: '56943'
+    url: http://www.gutenberg.org/2009/agents/56943
+description: ''
+gutenberg_issued: '2024-03-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '73097'
+language: fr
+pgterms:marc904: https://babel.hathitrust.org/cgi/pt?id=nyp.33433082302203
+pgterms:marc905: 20230612224052kohnabrest
+pgterms:marc906: '1887'
+pgterms:marc907: FR
+production_note: Laurent Vogel and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This book was produced from images made available by the HathiTrust Digital Library.)
+publication_note: '  $aParis :$bE. Dentu, $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Un printemps en Bosnie
+url: http://www.gutenberg.org/ebooks/73097
