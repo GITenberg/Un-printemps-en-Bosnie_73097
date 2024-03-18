@@ -1,11 +1,16 @@
 _repo: Un-printemps-en-Bosnie_73097
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 73097-h/images/cover.jpg
 creator:
   author:
     agent_name: Kohn-Abrest, Frédéric
     gutenberg_agent_id: '56943'
     url: http://www.gutenberg.org/2009/agents/56943
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73097#Un-printemps-en-Bosnie
 gutenberg_issued: '2024-03-04'
 gutenberg_type: Text
 identifiers:
